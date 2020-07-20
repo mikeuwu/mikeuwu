@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 Im Mike From US
+- 🌱 I'm currently learning Machine learning and Data Science in Python
+- 👯 I'm looking to colloborate on Open-Source Projects
+- 📫 Reach me on: [email](mailto:mikecool.dev@gmail.com) or DM me on Discord: mikewuw#8307
+
 
 <!--
 **mikeuwu/mikeuwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
